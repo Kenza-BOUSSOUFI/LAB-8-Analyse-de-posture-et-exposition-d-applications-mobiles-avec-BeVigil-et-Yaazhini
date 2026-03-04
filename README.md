@@ -56,14 +56,17 @@ Option A : APK pédagogique fourni ( Diva )
 
 <img width="965" height="71" alt="image" src="https://github.com/user-attachments/assets/f1227649-f41a-49c8-be5e-13edaa26c5e7" />
 
+
 <img width="1012" height="307" alt="image" src="https://github.com/user-attachments/assets/f3252d2c-0805-462b-bab9-3fe47b90aeda" />
 
 4- Enregistrer la commande dans le log:
 
 "Copy-Item -Path 'E:\EMSI\4IIR\S2\Securites_des_apps_mobiles\diva-apk-file\DivaApplication.apk' -Destination '00-scope\'" 
+
 "Get-FileHash -Path '00-scope\DivaApplication.apk' -Algorithm SHA256" 
 
 <img width="963" height="117" alt="image" src="https://github.com/user-attachments/assets/ae5dd1ff-589e-410c-971d-58a030babe21" />
+
 
 <img width="1257" height="206" alt="image" src="https://github.com/user-attachments/assets/9f4fc676-db19-4e7f-b177-501f64b61540" />
 
