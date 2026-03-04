@@ -1,6 +1,39 @@
 # LAB-6-Analyse-de-posture-et-exposition-d-applications-mobiles-avec-BeVigil-et-Yaazhini
 
 Task 0 — Règles, périmètre et éthique:
+
 1- Création d'un fichier 00-scope/scope.md
 
 <img width="962" height="497" alt="image" src="https://github.com/user-attachments/assets/09793282-3876-4f0a-815e-4199ef15b1fa" />
+
+<img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/530938d7-76b4-4e95-9915-c42e141b6099" />
+
+<img width="957" height="468" alt="image" src="https://github.com/user-attachments/assets/6f3a2e80-6e87-4424-974f-024d2c553730" />
+
+Task 1 — Préparation du workspace et traçabilité:
+
+1- Création de l'arborescence de dossiers :
+
+<img width="1331" height="962" alt="image" src="https://github.com/user-attachments/assets/03350630-ceef-4164-86b4-de729818f95f" />
+
+<img width="825" height="273" alt="image" src="https://github.com/user-attachments/assets/84019807-da07-4b5d-858b-96afc34c5bbf" />
+
+
+2- Création du fichier fichier analyse_info.txt et le fichier commands.log pour sauvegarder toutes les commandes exécutées:
+
+<img width="965" height="285" alt="image" src="https://github.com/user-attachments/assets/2add383d-9082-4c4a-923f-36cd2d71b0e1" />
+3- # Ajouter cette commande au log
+"mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report" 
+
+<img width="961" height="58" alt="image" src="https://github.com/user-attachments/assets/c9e1d517-9316-4b71-885f-84db7c5ff454" />
+
+Le contenu du fichier commands.log
+
+<img width="992" height="221" alt="image" src="https://github.com/user-attachments/assets/1f0435b3-f9fa-4402-89f8-dc0681fcebf2" />
+
+
+
+
+
+
+
