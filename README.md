@@ -16,13 +16,17 @@ Task 1 — Préparation du workspace et traçabilité:
 
 <img width="1331" height="962" alt="image" src="https://github.com/user-attachments/assets/03350630-ceef-4164-86b4-de729818f95f" />
 
-<img width="825" height="273" alt="image" src="https://github.com/user-attachments/assets/84019807-da07-4b5d-858b-96afc34c5bbf" />
 
-
-2- Création du fichier fichier analyse_info.txt et le fichier commands.log pour sauvegarder toutes les commandes exécutées:
+2- Création du fichier  analyse_info.txt et le fichier commands.log pour sauvegarder toutes les commandes exécutées:
 
 <img width="965" height="285" alt="image" src="https://github.com/user-attachments/assets/2add383d-9082-4c4a-923f-36cd2d71b0e1" />
-3- # Ajouter cette commande au log
+
+Contenu du fichier  analyse_info.txt:
+
+<img width="995" height="381" alt="image" src="https://github.com/user-attachments/assets/fb524fab-906a-4455-9a1a-e42466817596" />
+
+3- # Ajouter cette commande au log: 
+
 "mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report" 
 
 <img width="961" height="58" alt="image" src="https://github.com/user-attachments/assets/c9e1d517-9316-4b71-885f-84db7c5ff454" />
@@ -30,6 +34,12 @@ Task 1 — Préparation du workspace et traçabilité:
 Le contenu du fichier commands.log
 
 <img width="992" height="221" alt="image" src="https://github.com/user-attachments/assets/1f0435b3-f9fa-4402-89f8-dc0681fcebf2" />
+
+
+L'arboressance :
+
+<img width="825" height="273" alt="image" src="https://github.com/user-attachments/assets/84019807-da07-4b5d-858b-96afc34c5bbf" />
+
 
 
 
