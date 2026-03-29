@@ -72,6 +72,16 @@ Option A : APK pédagogique fourni ( Diva )
 
 Task 3 — Démarrage et prise en main BeVigil
 
+1. On va accéder à BeVigil (interface web ) via l'URL : https://bevigil.com/
+
+2. Aprés on va clicker sur "Scan App" du NavBar, et on va choisir l'option 2 ( scan .apk file), puis l'importation de l'APK:
+
+<img width="1901" height="875" alt="image" src="https://github.com/user-attachments/assets/c734b2ab-d9e1-41d2-b07d-6bfa0ec5c81f"/>
+
+<img width="1790" height="875" alt="image" src="https://github.com/user-attachments/assets/a16b76ea-045d-4916-b8de-7ee05138ac39" />
+
+
+
 
 
 
