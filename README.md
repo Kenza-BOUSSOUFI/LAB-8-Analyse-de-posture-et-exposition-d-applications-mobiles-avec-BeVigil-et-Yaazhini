@@ -1,4 +1,4 @@
-# LAB-6-Analyse-de-posture-et-exposition-d-applications-mobiles-avec-BeVigil-et-Yaazhini
+# LAB-8-Analyse-de-posture-et-exposition-d-applications-mobiles-avec-BeVigil-et-Yaazhini
 
 Task 0 — Règles, périmètre et éthique:
 
