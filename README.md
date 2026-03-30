@@ -82,7 +82,8 @@ Task 3 — Démarrage et prise en main BeVigil
 
 3. Ensuite, on va cliquer sur "view report" et on va explorer les différentes sections de l'interface:
 
-<img width="1797" height="757" alt="image" src="https://github.com/user-attachments/assets/39b68483-a9e5-449e-8d38-b12f6a5516bd" />
+<img width="1252" height="202" alt="image" src="https://github.com/user-attachments/assets/c0fb2548-d70f-4176-9ef7-cf916fa0d8e4" />
+
 
 Summary:
 
