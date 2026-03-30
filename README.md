@@ -80,6 +80,67 @@ Task 3 — Démarrage et prise en main BeVigil
 
 <img width="1790" height="875" alt="image" src="https://github.com/user-attachments/assets/a16b76ea-045d-4916-b8de-7ee05138ac39" />
 
+3. Ensuite, on va cliquer sur "view report" et on va explorer les différentes sections de l'interface:
+
+<img width="1797" height="757" alt="image" src="https://github.com/user-attachments/assets/39b68483-a9e5-449e-8d38-b12f6a5516bd" />
+
+Summary:
+
+<img width="1801" height="742" alt="image" src="https://github.com/user-attachments/assets/b9acc4fc-b29e-4fd2-bb3e-7744c4810c23" />
+
+<img width="1896" height="811" alt="image" src="https://github.com/user-attachments/assets/7234170e-b9eb-49b6-9bb6-fab66fa84e61" />
+
+<img width="1911" height="672" alt="image" src="https://github.com/user-attachments/assets/2aa1aae3-996e-43e4-9564-905ed16a68ff" />
+
+
+Les vulnérabilités trouvées:
+
+<img width="1895" height="707" alt="image" src="https://github.com/user-attachments/assets/e62e0a85-9c24-4138-818d-992f5f6f3295" />
+
+Strings:
+
+<img width="1892" height="436" alt="image" src="https://github.com/user-attachments/assets/9bee5979-3420-4840-9b25-107bf2aed741" />
+
+Assets:
+
+<img width="1888" height="577" alt="image" src="https://github.com/user-attachments/assets/00de06e6-f23f-4d2e-ac22-fefc23575ce9" />
+
+APKiD:
+
+<img width="1893" height="401" alt="image" src="https://github.com/user-attachments/assets/5d2ac099-899d-4a6d-9aec-34bea5654c17" />
+
+
+
+Permissions:
+
+<img width="1892" height="420" alt="image" src="https://github.com/user-attachments/assets/27076599-9fad-455c-a503-6232d80d2dea" />
+
+<img width="1892" height="366" alt="image" src="https://github.com/user-attachments/assets/167147ec-dcdf-45d3-a1aa-62864531a92b" />
+
+<img width="1893" height="556" alt="image" src="https://github.com/user-attachments/assets/173e49e1-b373-4fb9-abbd-79dcf74dd948" />
+
+AppData:
+
+<img width="1897" height="813" alt="image" src="https://github.com/user-attachments/assets/d090b365-32c3-41f6-ae25-d436949c435d" />
+
+4. On va exporter les résultats en cliquant sur le boutton "Download report"
+
+<img width="1032" height="192" alt="image" src="https://github.com/user-attachments/assets/8bb2d0f0-9c6d-4e25-a8ed-0f4e5bd53c94" />
+
+ils ne donne pas report 
+
+<img width="1772" height="977" alt="image" src="https://github.com/user-attachments/assets/a6b3b3fc-a618-4281-95c9-5c418d62da4d" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
