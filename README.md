@@ -131,6 +131,23 @@ ils ne donne pas report
 
 <img width="1772" height="977" alt="image" src="https://github.com/user-attachments/assets/a6b3b3fc-a618-4281-95c9-5c418d62da4d" />
 
+# Task 4 — Collecte BeVigil : endpoints, domaines, emails, technologies 
+
+Maintenant, on va créer un fichier 01-bevigil/bevigil_notes.md structuré qui contient la documentation des éléments identifiés:
+
+<img width="1901" height="981" alt="image" src="https://github.com/user-attachments/assets/ecbe76c9-8c00-4bc9-9b34-ae6583cf3715" />
+
+Puis on va Enregistrer la commande dans le log:
+
+<img width="1287" height="81" alt="image" src="https://github.com/user-attachments/assets/386bf0cc-d5be-48c7-9e74-390bdde22070" />
+
+<img width="1252" height="267" alt="image" src="https://github.com/user-attachments/assets/05e529f0-0717-444c-bc41-76d18d189849" />
+
+# Task 5 — Démarrage et prise en main Yaazhini 
+
+
+
+
 
 
 
