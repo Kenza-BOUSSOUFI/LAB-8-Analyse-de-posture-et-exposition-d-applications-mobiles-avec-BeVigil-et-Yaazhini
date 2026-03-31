@@ -1,0 +1,10 @@
+Date: 2026-03-04
+Analyste: Kenza Boussoufi
+Cible: Diva (APK pédagogique)
+Artefact: DivaApplication.apk
+Provenance: TP Mobile Security - https://mliaedu.toubkalit.com/student/courses/35/labs/310
+Hash: 5CEFC51FCE9BD760B92AB2340477F4DDA84B4AE0C5D04A8C9493E4FE34FAB7C5
+Versions outils:
+  - BeVigil: interface web
+  - Yaazhini: 2.0.2
+Environnement: Windows Windows 10 Pro

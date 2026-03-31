@@ -1,0 +1,5 @@
+﻿# Log des commandes exécutées - 2026-03-04 00:38:12
+mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report
+Copy-Item -Path 'E:\EMSI\4IIR\S2\Securites_des_apps_mobiles\diva-apk-file\DivaApplication.apk' -Destination '00-scope\'
+Get-FileHash -Path '00-scope\DivaApplication.apk' -Algorithm SHA256
+[INFO] 2026-03-31 00:44:51 - Created bevigil_notes.md template
