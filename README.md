@@ -124,14 +124,6 @@ AppData:
 
 <img width="1897" height="813" alt="image" src="https://github.com/user-attachments/assets/d090b365-32c3-41f6-ae25-d436949c435d" />
 
-4. On va exporter les résultats en cliquant sur le boutton "Download report"
-
-<img width="1032" height="192" alt="image" src="https://github.com/user-attachments/assets/8bb2d0f0-9c6d-4e25-a8ed-0f4e5bd53c94" />
-
-ils ne donne pas report 
-
-<img width="1772" height="977" alt="image" src="https://github.com/user-attachments/assets/a6b3b3fc-a618-4281-95c9-5c418d62da4d" />
-
 # Task 4 — Collecte BeVigil : endpoints, domaines, emails, technologies 
 
 Maintenant, on va créer un fichier 01-bevigil/bevigil_notes.md structuré qui contient la documentation des éléments identifiés:
