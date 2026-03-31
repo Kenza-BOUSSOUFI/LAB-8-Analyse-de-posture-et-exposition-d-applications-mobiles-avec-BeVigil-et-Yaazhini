@@ -146,6 +146,73 @@ Puis on va Enregistrer la commande dans le log:
 
 # Task 5 — Démarrage et prise en main Yaazhini 
 
+Aprés l'installation de Yaazhini par ce site https://www.vegabird.com/yaazhini/, on va le lancer et démarrer l'analyse de l'APK DIVA:
+
+<img width="1123" height="747" alt="image" src="https://github.com/user-attachments/assets/516eba02-b8fb-4f1c-90e4-cb2cab918ac4" />
+
+<img width="1907" height="797" alt="image" src="https://github.com/user-attachments/assets/ce66389a-2b7f-41b2-baae-33f6d3c1ee53" />
+
+Les vulnérabilités trouvées:
+
+1. High
+
+<img width="1609" height="958" alt="image" src="https://github.com/user-attachments/assets/b577b744-552e-4a04-8fe8-9cc12465452e" />
+
+<img width="1587" height="532" alt="image" src="https://github.com/user-attachments/assets/bccad7cd-a518-4a72-aeda-a9d54b68756c" />
+
+2. Medium
+
+<img width="1601" height="950" alt="image" src="https://github.com/user-attachments/assets/df6791f7-2592-4a55-9010-5a75784d9ca9" />
+
+<img width="1591" height="527" alt="image" src="https://github.com/user-attachments/assets/8e57e502-1698-4599-b37a-d4d1cf23c32f" />
+
+<img width="1601" height="488" alt="image" src="https://github.com/user-attachments/assets/9535ca6c-11a5-4d18-b061-78dcb62865b2" />
+
+<img width="1582" height="526" alt="image" src="https://github.com/user-attachments/assets/6945f951-dc59-4498-8fbd-c906c7056a5f" />
+
+<img width="1598" height="965" alt="image" src="https://github.com/user-attachments/assets/89e052df-eabd-4f54-969b-f370340f7c1a" />
+
+<img width="1586" height="507" alt="image" src="https://github.com/user-attachments/assets/0e7f3e54-defc-4650-a65d-5e8137e37c6a" />
+
+3. Low:
+
+<img width="1600" height="957" alt="image" src="https://github.com/user-attachments/assets/e8da160f-080f-4c52-9336-9630d8b85efe" />
+
+<img width="1588" height="531" alt="image" src="https://github.com/user-attachments/assets/a1036c01-7e7c-44e8-93bc-0caf02b21953" />
+
+
+Linked URL's:
+
+<img width="1915" height="446" alt="image" src="https://github.com/user-attachments/assets/a3823eea-32f5-4b6f-98c9-b5cf6f24dc9f" />
+
+Libraries:
+
+<img width="1200" height="333" alt="image" src="https://github.com/user-attachments/assets/ed4ee876-5466-4ae9-8f6d-5aa1f733bec5" />
+
+Permissions:
+
+<img width="1598" height="297" alt="image" src="https://github.com/user-attachments/assets/f8a364c5-0c9c-4f60-b068-3671df3d6e74" />
+
+Activities:
+
+<img width="1601" height="951" alt="image" src="https://github.com/user-attachments/assets/306e4b83-6968-49e8-b359-27045addb05d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
