@@ -191,6 +191,36 @@ Activities:
 
 
 
+# Checklist de fin
+
+- Scope clairement défini et respecté
+  
+- Informations de traçabilité complètes
+
+- Hash de l'APK documenté
+
+- Fichier notes  BeVigil sauvegardé
+
+- Fichier notes  Yaazhini sauvegardé
+
+- Notes d'analyse complètes
+
+- Triage.csv rempli avec tous les constats
+
+- Mapping OWASP réalisé pour au moins 5 constats
+
+- Rapport final complet et structuré
+
+- Aucun secret exposé dans les fichiers
+
+- Aucune donnée personnelle exposée
+
+- Aucune technique d'exploitation documentée
+
+
+
+
+
 
 
 
